@@ -60,7 +60,7 @@ public class laba2 {
             }
             System.out.println("Сума найменших елементів у кожному cтовпчику дорівнює: " + Suma);
         }else{
-            System.out.println("cannot be multiplyed because matrix are invalid ");
+            System.out.println("cannot be multiplied because matrix are invalid ");
         }
     }
 }
